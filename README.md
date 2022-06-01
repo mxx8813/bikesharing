@@ -38,3 +38,5 @@ On the contrary, in the customer group, you will observe heavier usage later in 
 ## Summary
 
 In conclusion, while one month of ride share data is somewhat insightful, I recommend further analysis to determine whether the ride share model is a good return in investment in a city that has a very small fraction of NYC's population.  For comparison purposes, the population in NYC is ~8.4 million in 2020 and Citi Bike has ~1.9 million subscribers.  That's roughly 23% of total population.  Des Moines has ~215k in population in 2020, so if we assume the same percentage of population as subscribers (not considering other factors such as local infrastructure, topography, radius of city center, etc), we would expect to have 49k subscribers, which may or may not make financial sense for our investors.
+
+## Link to Tableau [Storyboard](https://public.tableau.com/views/bikesharing_16541201629810/Story?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
